@@ -1,2 +1,2 @@
 # pysemrep
-A repository for Python prototypes of key methodologies used by the SemRep semantic prediction extraction tool. SemRep was originally developed by Dr. Halil Kilicoglu for NIH. A Java version is currently under development at https://github.com/kilicogluh/semrepj.
+A repository for Python prototypes of key methodologies used by the SemRep semantic prediction extraction tool. SemRep was originally developed at the NLM. A Java version is currently under development at https://github.com/kilicogluh/semrepj.

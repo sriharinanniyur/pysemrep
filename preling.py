@@ -4,6 +4,9 @@
 import nltk
 from nltk.corpus import wordnet
 from nltk.stem.wordnet import WordNetLemmatizer
+import pprint
+
+pp = pprint.PrettyPrinter(indent=4)
 
 lemmatizer = WordNetLemmatizer()
 
@@ -36,4 +39,4 @@ def sentence_data(sentence):
     return [{"word":pos_list[i][0], "pos":pos_list[i][1], "lemma":lemma_list[i]}
         for i in range(0, len(pos_list))]
 
-print(sentence_data(open("test.plain", "r").read()))
+pp.pprint(sentence_data(open("test.plain", "r").read()))

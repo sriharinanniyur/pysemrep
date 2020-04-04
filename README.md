@@ -7,4 +7,4 @@ This project is currently being mentored by Dr. Kilicoglu. It is still a work in
 ## DEPENDENCIES
 nltk
 spaCy
-nltk-opennlp library (not on pyPI, can be installed from https://github.com/paudan/opennlp_python)
+OpenNLP Python Wrapper: https://github.com/rohithb/openNLP-python-wrapper

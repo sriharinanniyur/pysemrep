@@ -1,7 +1,4 @@
-import spacy
+import opennlp
 
-nlp = spacy.load("en_core_web_sm")
-
-doc = nlp(open("test.plain", "r").read())
-
-print([str(chunk) for chunk in doc.noun_chunks])
+# Global chunker instance
+chunker = opennlp.OpenNLP("/home/sriharin/apache-opennlp-1.9.2", "ChunkerME", "en-chunker.bin")

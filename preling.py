@@ -32,8 +32,7 @@ def nltk_to_wordnet_pos(tag):
         return wordnet.NOUN # default type for wordnet is noun anyway
 
 # sentence_data() - work in progress.
-# Currently returns POS and lemma on a per-word basis in a sentence.
-# Still need to implement chunking.
+# currently returns chunks and POS for a given sentence - still need to format the lemmas into output.
 def sentence_data(text):
     tokens = nltk.word_tokenize(text)
     pos_list = nltk.pos_tag(tokens)

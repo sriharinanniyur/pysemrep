@@ -1,0 +1,244 @@
+00000000.tx|MMI|135.37|Alpha tumour necrosis factor measurement|C1168005|[lbpr]|"Tumor Necrosis Factor"-text-0-"tumor necrosis factor"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-25-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0|text|424/21;447/3;543/3;562/3;749/3;1068/3;1748/3|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|135.37|Recombinant Tumor Necrosis Factor Family Protein|C1522668|[imft, aapp]|"tumor necrosis factor"-text-0-"tumor necrosis factor"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-25-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0|text|424/21;447/3;543/3;562/3;749/3;1068/3;1748/3|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|135.37|TNF gene|C0812246|[gngm]|"TUMOR NECROSIS FACTOR"-text-0-"tumor necrosis factor"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-25-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0|text|424/21;447/3;543/3;562/3;749/3;1068/3;1748/3|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|135.37|TNF protein, human|C1448177|[bacs, aapp]|"Tumor Necrosis Factor"-text-0-"tumor necrosis factor"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-25-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0|text|424/21;447/3;543/3;562/3;749/3;1068/3;1748/3|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|135.37|Tumor Necrosis Factor-alpha|C1456820|[imft, aapp]|"Tumor Necrosis Factor"-text-0-"tumor necrosis factor"-NN-0,"tnf"-text-0-"TNF"-NN-0,"tnf"-text-25-"TNF"-NN-0,"tnf"-text-32-"TNF"-NN-0,"tnf"-text-32-"TNF"-NN-0,"tnf"-text-0-"TNF"-NN-0,"tnf"-text-0-"TNF"-NN-0|text|424/21;447/3;543/3;562/3;749/3;1068/3;1748/3|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|135.37|Tumor Necrosis Factors|C0041368|[imft, aapp]|"tumor necrosis factor"-text-0-"tumor necrosis factor"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-25-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-32-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0,"TNF"-text-0-"TNF"-NN-0|text|424/21;447/3;543/3;562/3;749/3;1068/3;1748/3|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|77.35|Cyclic AMP|C0001455|[bacs, nnon, phsu]|"Cyclic AMP"-text-2-"cyclic AMP"-NN-0,"cAMP"-text-5-"cAMP"-NN-0,"cAMP"-text-4-"cAMP"-NNS-0,"cAMP"-text-14-"cAMP"-NNS-0,"cAMP"-text-47-"cAMP"-JJ-0,"cAMP"-text-0-"cAMP"-NNS-0,"cAMP"-text-18-"cAMP"-NNS-0,"cAMP"-text-53-"cAMP"-JJ-0|text|2432/10;2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|D03.633.100.759.646.138.395;D13.695.462.200;D13.695.667.138.395;D13.695.827.068.395
+00000000.tx|MMI|51.57|Rheumatoid Arthritis|C0003873|[dsyn]|"Rheumatoid Arthritis"-text-0-"rheumatoid arthritis"-NNP-0,"Rheumatoid Arthritis"-text-23-"rheumatoid arthritis"-NN-0,"Rheumatoid Arthritis"-text-1-"rheumatoid arthritis"-NNP-0,"Rheumatoid Arthritis"-text-1-"rheumatoid arthritis"-NNP-0,"Rheumatoid Arthritis"-text-1-"rheumatoid arthritis"-NNP-0,"Rheumatoid Arthritis"-text-1-"rheumatoid arthritis"-NNP-0,"Rheumatoid Arthritis"-text-1-"rheumatoid arthritis"-NNP-0,"Rheumatoid Arthritis"-text-1-"rheumatoid arthritis"-NNP-0|text|44/20;272/20;44/20;44/20;44/20;44/20;44/20;44/20|C05.550.114.154;C05.799.114;C17.300.775.099;C20.111.199
+00000000.tx|MMI|51.57|Dehydroepiandrosterone sulfate measurement (procedure)|C0201983|[lbpr]|"Dehydroepiandrosterone Sulfate"-text-0-"dehydroepiandrosterone sulfate"-NN-0,"DHEAS"-text-0-"DHEAS"-NNP-0,"DHEAS"-text-88-"DHEAS"-NNP-0,"DHEAS"-text-0-"DHEAS"-NNP-0|text|168/30;200/5;868/5;1217/5|D04.210.500.054.079.429.625.300;D04.210.500.578.502.400.300;D06.472.040.502.400.300;D06.472.334.851.968.952.300
+00000000.tx|MMI|45.12|Insulin measurement|C0202098|[lbpr]|"Insulin"-text-12-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-17-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"insulin levels"-text-27-"insulin levels"-NN-0,"Insulin"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;2897/14;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|38.68|GCG gene|C1333664|[gngm]|"GLUCAGON"-text-17-"glucagon"-NNP-0,"GLUCAGON"-text-1-"glucagon"-NN-0,"GLUCAGON"-text-22-"glucagon"-NN-0,"GLUCAGON"-text-33-"glucagon"-JJ-0,"GLUCAGON"-text-0-"Glucagon"-NNP-0,"GLUCAGON"-text-24-"glucagon"-NN-0,"GLUCAGON"-text-41-"glucagon"-NN-0|text|2163/8;2236/8;2498/8;2931/8;2993/8;3358/8;3424/8|D06.472.699.587.730.500;D12.644.548.586.730.500
+00000000.tx|MMI|38.68|Glucagon|C0017687|[horm, aapp, phsu]|"Glucagon"-text-17-"glucagon"-NNP-0,"Glucagon"-text-1-"glucagon"-NN-0,"Glucagon"-text-22-"glucagon"-NN-0,"Glucagon"-text-33-"glucagon"-JJ-0,"Glucagon"-text-0-"Glucagon"-NNP-0,"Glucagon"-text-24-"glucagon"-NN-0,"Glucagon"-text-41-"glucagon"-NN-0|text|2163/8;2236/8;2498/8;2931/8;2993/8;3358/8;3424/8|D06.472.699.587.730.500;D12.644.548.586.730.500
+00000000.tx|MMI|38.68|Glucagon measurement|C0337437|[lbpr]|"Glucagon"-text-17-"glucagon"-NNP-0,"Glucagon"-text-1-"glucagon"-NN-0,"Glucagon"-text-22-"glucagon"-NN-0,"Glucagon"-text-33-"glucagon"-JJ-0,"Glucagon"-text-0-"Glucagon"-NNP-0,"Glucagon"-text-24-"glucagon"-NN-0,"Glucagon"-text-41-"glucagon"-NN-0|text|2163/8;2236/8;2498/8;2931/8;2993/8;3358/8;3424/8|D06.472.699.587.730.500;D12.644.548.586.730.500
+00000000.tx|MMI|38.68|glucagon (rDNA)|C0876232|[horm, aapp, phsu]|"Glucagon"-text-17-"glucagon"-NNP-0,"Glucagon"-text-1-"glucagon"-NN-0,"Glucagon"-text-22-"glucagon"-NN-0,"Glucagon"-text-33-"glucagon"-JJ-0,"Glucagon"-text-0-"Glucagon"-NNP-0,"Glucagon"-text-24-"glucagon"-NN-0,"Glucagon"-text-41-"glucagon"-NN-0|text|2163/8;2236/8;2498/8;2931/8;2993/8;3358/8;3424/8|D06.472.699.587.730.500;D12.644.548.586.730.500
+00000000.tx|MMI|38.68|glucagon, human|C0772088|[horm, aapp, phsu]|"Glucagon"-text-17-"glucagon"-NNP-0,"Glucagon"-text-1-"glucagon"-NN-0,"Glucagon"-text-22-"glucagon"-NN-0,"Glucagon"-text-33-"glucagon"-JJ-0,"Glucagon"-text-0-"Glucagon"-NNP-0,"Glucagon"-text-24-"glucagon"-NN-0,"Glucagon"-text-41-"glucagon"-NN-0|text|2163/8;2236/8;2498/8;2931/8;2993/8;3358/8;3424/8|D06.472.699.587.730.500;D12.644.548.586.730.500
+00000000.tx|MMI|38.68|INS gene|C1337112|[gngm]|"INSULIN"-text-12-"insulin"-NN-0,"INSULIN"-text-0-"insulin"-NN-0,"INSULIN"-text-17-"insulin"-NN-0,"INSULIN"-text-0-"insulin"-NN-0,"INSULIN"-text-0-"insulin"-NN-0,"INSULIN"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|38.68|Insulin|C0021641|[horm, aapp, phsu]|"Insulin"-text-12-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-17-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|38.68|Insulin Drug Class|C3714501|[horm, phsu]|"INSULIN"-text-12-"insulin"-NN-0,"INSULIN"-text-0-"insulin"-NN-0,"INSULIN"-text-17-"insulin"-NN-0,"INSULIN"-text-0-"insulin"-NN-0,"INSULIN"-text-0-"insulin"-NN-0,"INSULIN"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|38.68|Insulin [EPC]|C1579433|[phsu]|"Insulin"-text-12-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-17-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|38.68|Recombinant Insulin|C1533581|[horm, aapp, phsu]|"Insulin"-text-12-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-17-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-0-"insulin"-NN-0,"Insulin"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|38.68|insulin activity|C1145751|[moft]|"insulin"-text-12-"insulin"-NN-0,"insulin"-text-0-"insulin"-NN-0,"insulin"-text-17-"insulin"-NN-0,"insulin"-text-0-"insulin"-NN-0,"insulin"-text-0-"insulin"-NN-0,"insulin"-text-35-"insulin"-NN-0|text|2150/7;2224/7;2485/7;2703/7;2795/7;3402/7|D06.472.699.587.200.500.625;D12.644.548.586.200.500.625
+00000000.tx|MMI|23.48|IL6 gene|C1334122|[gngm]|"INTERLEUKIN 6"-text-73-"interleukin 6"-NN-0,"IL-6"-text-78-"IL-6"-NN-0,"IL-6"-text-38-"IL-6"-NN-0|text|823/13;838/4;1195/4|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|23.48|IL6 protein, human|C1698754|[bacs, aapp]|"Interleukin 6"-text-73-"interleukin 6"-NN-0,"IL-6"-text-78-"IL-6"-NN-0,"IL-6"-text-38-"IL-6"-NN-0|text|823/13;838/4;1195/4|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|23.48|Interleukin-6|C0021760|[imft, aapp]|"interleukin 6"-text-73-"interleukin 6"-NN-0,"IL-6"-text-78-"IL-6"-NN-0,"IL-6"-text-38-"IL-6"-NN-0|text|823/13;838/4;1195/4|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|23.48|Recombinant Interleukin-6|C1527132|[imft, aapp, phsu]|"interleukin 6"-text-73-"interleukin 6"-NN-0,"IL-6"-text-78-"IL-6"-NN-0,"IL-6"-text-38-"IL-6"-NN-0|text|823/13;838/4;1195/4|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|22.10|Dehydroepiandrosterone Assay|C0373598|[lbpr]|"DHEA"-text-85-"DHEA"-NNP-0,"DHEA"-text-0-"DHEA"-NN-0|text|862/4;1376/4|D04.210.500.054.079.429.625;D04.210.500.578.502.400;D06.472.040.502.400;D06.472.334.851.968.952
+00000000.tx|MMI|19.34|Serum|C0229671|[bdsu]|"Serum"-text-0-"serum"-NN-0,"Serum"-text-65-"serum"-NN-0,"Serum"-text-30-"serum"-NN-0,"Serum"-text-0-"Serum"-NN-0,"Serum"-text-0-"Serum"-NN-0,"Serum"-text-7-"serum"-NN-0|text|351/5;799/5;1179/5;1201/5;1360/5;1775/5|A12.207.152.846;A15.145.846
+00000000.tx|MMI|19.34|Specimen Source Codes - Serum|C1546774|[inpr]|"Serum"-text-0-"serum"-NN-0,"Serum"-text-65-"serum"-NN-0,"Serum"-text-30-"serum"-NN-0,"Serum"-text-0-"Serum"-NN-0,"Serum"-text-0-"Serum"-NN-0,"Serum"-text-7-"serum"-NN-0|text|351/5;799/5;1179/5;1201/5;1360/5;1775/5|A12.207.152.846;A15.145.846
+00000000.tx|MMI|19.34|Specimen Type - Serum|C1550100|[bdsu]|"Serum"-text-0-"serum"-NN-0,"Serum"-text-65-"serum"-NN-0,"Serum"-text-30-"serum"-NN-0,"Serum"-text-0-"Serum"-NN-0,"Serum"-text-0-"Serum"-NN-0,"Serum"-text-7-"serum"-NN-0|text|351/5;799/5;1179/5;1201/5;1360/5;1775/5|A12.207.152.846;A15.145.846
+00000000.tx|MMI|19.34|tumor necrosis factor binding|C1323304|[moft]|"tumor necrosis factor"-text-0-"tumor necrosis factor"-NN-0|text|424/21|D12.644.276.374.500.800;D12.644.276.374.750.626;D12.776.124.900;D12.776.395.930;D12.776.467.374.500.800;D12.776.467.374.750.626;D23.529.374.500.800;D23.529.374.750.626
+00000000.tx|MMI|16.11|Hormones|C0019932|[horm]|"Hormones"-text-6-"hormones"-NNS-0,"Hormones"-text-19-"hormones"-NNS-0,"Hormones"-text-0-"hormones"-NNS-0,"Hormones"-text-0-"hormones"-NNS-0,"Hormone"-text-0-"hormone"-NN-0|text|479/8;522/8;939/8;1553/8;1577/7|D06.472;D27.505.696.399.472
+00000000.tx|MMI|15.65|Interleukin-6, human|C2983957|[imft, aapp, phsu]|"IL-6"-text-78-"IL-6"-NN-0,"IL-6"-text-38-"IL-6"-NN-0|text|838/4;1195/4|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|15.65|interleukin-6 binding activity|C1149241|[moft]|"IL-6"-text-78-"IL-6"-NN-0,"IL-6"-text-38-"IL-6"-NN-0|text|838/4;1195/4|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|13.81|Glucose|C0017725|[bacs, orch, phsu]|"Glucose"-text-9-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0,"Glucose"-text-45-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0|text|2141/7;2215/7;2528/7;2691/7;3193/7;3214/7|D09.947.875.359.448
+00000000.tx|MMI|13.81|Glucose measurement|C0337438|[lbpr]|"Glucose"-text-9-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0,"Glucose"-text-45-"glucose"-NN-0,"Glucose"-text-0-"glucose"-NN-0|text|2141/7;2215/7;2528/7;2691/7;3193/7;3214/7|D09.947.875.359.448
+00000000.tx|MMI|12.89|Dehydroepiandrosterone Sulfate|C0057277|[bacs, orch, phsu]|"Dehydroepiandrosterone Sulfate"-text-0-"dehydroepiandrosterone sulfate"-NN-0|text|168/30|D04.210.500.054.079.429.625.300;D04.210.500.578.502.400.300;D06.472.040.502.400.300;D06.472.334.851.968.952.300
+00000000.tx|MMI|12.43|adalimumab|C1122087|[imft, aapp, phsu]|"adalimumab"-text-39-"adalimumab"-NN-0|text|580/10|D12.776.124.486.485.114.224.060.250;D12.776.124.790.651.114.224.060.250;D12.776.377.715.548.114.224.200.250
+00000000.tx|MMI|11.97|Macaca mulatta|C0024400|[mamm]|"Rhesus Monkey"-text-2-"rhesus monkey"-NN-0,"Rhesus Monkey"-text-35-"rhesus monkey"-NN-0|text|2116/13;2364/13|B01.050.150.900.649.313.988.400.112.199.120.510.550
+00000000.tx|MMI|11.05|Therapeutic procedure|C0087111|[topp]|"Therapy"-text-35-"therapy"-NN-0,"Treatment"-text-0-"treatment"-NN-0,"Therapy"-text-0-"therapy"-NN-0|text|567/7;1048/9;1730/7|E02;x.x.x.x.x.x.x
+00000000.tx|MMI|11.05|therapeutic aspects|C0039798|[ftcn]|"therapy"-text-35-"therapy"-NN-0,"treatment"-text-0-"treatment"-NN-0,"therapy"-text-0-"therapy"-NN-0|text|567/7;1048/9;1730/7|E02;x.x.x.x.x.x.x
+00000000.tx|MMI|11.05|Estradiol|C0014912|[horm, orch, phsu]|"Estradiol"-text-103-"estradiol"-NN-0,"Estradiol"-text-0-"estradiol"-NN-0|text|912/9;1390/9|D04.210.500.365.415.248;D06.472.334.851.437.500
+00000000.tx|MMI|11.05|Estradiol measurement|C0337434|[lbpr]|"Estradiol"-text-103-"estradiol"-NN-0,"Estradiol"-text-0-"estradiol"-NN-0|text|912/9;1390/9|D04.210.500.365.415.248;D06.472.334.851.437.500
+00000000.tx|MMI|10.59|Androstenedione|C0002860|[horm, orch, phsu]|"Androstenedione"-text-82-"androstenedione"-NN-0|text|845/15|D04.210.500.054.079.329;D04.210.500.578.502.112;D06.472.040.502.112;D06.472.334.851.968.875
+00000000.tx|MMI|10.59|Androstenedione measurement|C0337432|[lbpr]|"Androstenedione"-text-82-"androstenedione"-NN-0|text|845/15|D04.210.500.054.079.329;D04.210.500.578.502.112;D06.472.040.502.112;D06.472.334.851.968.875
+00000000.tx|MMI|10.59|ESTRONE MEASUREMENT|C0236379|[lbpr]|"Estrone"-text-96-"estrone"-NN-0|text|894/7|D04.210.500.365.415.414;D04.210.500.578.502.497;D06.472.040.502.497;D06.472.334.851.437.996
+00000000.tx|MMI|10.59|Estrone|C0014942|[horm, orch, phsu]|"Estrone"-text-96-"estrone"-NN-0|text|894/7|D04.210.500.365.415.414;D04.210.500.578.502.497;D06.472.040.502.497;D06.472.334.851.437.996
+00000000.tx|MMI|10.59|androst-4-ene-3,17-dione biosynthetic process|C3890170|[moft]|"androstenedione"-text-82-"androstenedione"-NN-0|text|845/15|D04.210.500.054.079.329;D04.210.500.578.502.112;D06.472.040.502.112;D06.472.334.851.968.875
+00000000.tx|MMI|10.13|Inhibition|C3463820|[acty]|"Inhibition"-text-37-"inhibition"-NN-0|text|3410/10|F01.145.544;F02.463.425.475;F02.739.794.405;F01.145.544;F02.463.425.475;F02.739.794.405
+00000000.tx|MMI|10.13|Psychological inhibition|C0021467|[menp]|"Inhibition"-text-37-"inhibition"-NN-0|text|3410/10|F01.145.544;F02.463.425.475;F02.739.794.405;F01.145.544;F02.463.425.475;F02.739.794.405
+00000000.tx|MMI|9.21|Mental concentration|C0086045|[menp]|"Concentrations"-text-0-"concentrations"-NNS-0,"Concentrations"-text-67-"concentrations"-NNS-0,"Concentrations"-text-8-"concentrations"-NNS-0,"Concentrations"-text-24-"concentrations"-NNS-0,"Concentrations"-text-3-"concentrations"-NNS-0|text|12/14;805/14;2450/14;2507/14;3272/14|F02.830.104.214
+00000000.tx|MMI|7.83|Interleukin 6 Measurement|C0919829|[lbpr]|"Interleukin 6"-text-73-"interleukin 6"-NN-0|text|823/13|D12.644.276.374.465.224;D12.776.467.374.465.202;D23.529.374.465.224
+00000000.tx|MMI|7.37|Therapy Object (animal model)|C1363945|[fndg]|"Therapy"-text-35-"therapy"-NN-0,"Therapy"-text-0-"therapy"-NN-0|text|567/7;1730/7|E02;x.x.x.x.x.x.x
+00000000.tx|MMI|6.45|Patients|C0030705|[podg]|"Patients"-text-0-"patients"-NNS-0,"Patients"-text-7-"patients"-NNS-0,"Patients"-text-0-"patients"-NNS-0,"Patients"-text-12-"patients"-NNS-0,"Patients"-text-8-"patients"-NNS-0,"Patients"-text-21-"patients"-NNS-0,"Patients"-text-0-"patients"-NNS-0|text|30/8;670/8;951/8;1280/8;1431/8;1815/8;1885/8|M01.643
+00000000.tx|MMI|5.99|Adenylate Cyclase|C0001492|[enzy, aapp]|"Adenylate Cyclase"-text-45-"adenylate cyclase"-JJ-0|text|2962/17|D08.811.520.650.200;D12.644.360.050;D12.776.476.050
+00000000.tx|MMI|5.99|Adenylyl Cyclase 9|C1382029|[enzy, aapp]|"Adenylate Cyclase"-text-45-"adenylate cyclase"-JJ-0|text|2962/17|D08.811.520.650.200;D12.644.360.050;D12.776.476.050
+00000000.tx|MMI|5.99|Testosterone|C0039601|[horm, orch, phsu]|"Testosterone"-text-5-"testosterone"-NN-0|text|211/12|D04.210.500.054.079.429.824;D06.472.334.851.968.984
+00000000.tx|MMI|5.99|Total Testosterone Measurement|C0202227|[lbpr]|"Testosterone"-text-5-"testosterone"-NN-0|text|211/12|D04.210.500.054.079.429.824;D06.472.334.851.968.984
+00000000.tx|MMI|5.06|Liver Glycogen|C0023902|[bacs, orch]|"Hepatic Glycogen"-text-0-"hepatic glycogen"-JJ-0|text|2081/16|D05.750.078.562.388.518;D09.698.365.388.518
+00000000.tx|MMI|4.14|Erythrocyte sedimentation rate measurement|C1176468|[lbpr]|"Erythrocyte Sedimentation Rate"-text-25-"erythrocyte sedimentation rate"-JJ-0|text|1143/30|E01.370.225.625.125;E05.200.625.125
+00000000.tx|MMI|4.14|Erythrocyte sedimentation rate:Velocity:Point in time:Whole blood:Quantitative|C1114891|[clna]|"Erythrocyte sedimentation rate"-text-25-"erythrocyte sedimentation rate"-JJ-0|text|1143/30|E01.370.225.625.125;E05.200.625.125
+00000000.tx|MMI|4.14|erythrocyte sedimentation rate result|C1619634|[lbtr]|"Erythrocyte Sedimentation Rate"-text-25-"erythrocyte sedimentation rate"-JJ-0|text|1143/30|E01.370.225.625.125;E05.200.625.125
+00000000.tx|MMI|3.68|Levels (qualifier value)|C0441889|[qlco]|"levels"-text-0-"levels"-NNS-0,"levels"-text-0-"Levels"-NNS-0,"levels"-text-6-"levels"-NNS-0,"levels"-text-32-"levels"-NNS-0,"levels"-text-0-"levels"-NNS-0,"levels"-text-0-"levels"-NNS-0,"levels"-text-38-"levels"-NNS-0,"levels"-text-9-"levels"-NNS-0|text|357/6;923/6;983/6;1185/6;1207/6;1366/6;1529/6;1781/6|
+00000000.tx|MMI|3.68|Glycogen Phosphorylase|C0917785|[enzy, aapp]|"Glycogen Phosphorylase"-text-19-"glycogen phosphorylase"-NN-0|text|2299/22|D08.811.913.400.450.460.400.186
+00000000.tx|MMI|3.22|8-chloro-cyclic adenosine monophosphate|C0050063|[nnon, phsu]|"cAMP"-text-5-"cAMP"-NN-0,"cAMP"-text-4-"cAMP"-NNS-0,"cAMP"-text-14-"cAMP"-NNS-0,"cAMP"-text-47-"cAMP"-JJ-0,"cAMP"-text-0-"cAMP"-NNS-0,"cAMP"-text-18-"cAMP"-NNS-0,"cAMP"-text-53-"cAMP"-JJ-0|text|2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|
+00000000.tx|MMI|3.22|CAMP gene|C1413106|[gngm]|"CAMP"-text-5-"cAMP"-NN-0,"CAMP"-text-4-"cAMP"-NNS-0,"CAMP"-text-14-"cAMP"-NNS-0,"CAMP"-text-47-"cAMP"-JJ-0,"CAMP"-text-0-"cAMP"-NNS-0,"CAMP"-text-18-"cAMP"-NNS-0,"CAMP"-text-53-"cAMP"-JJ-0|text|2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|
+00000000.tx|MMI|3.22|CHAMP1 gene|C2681145|[gngm]|"CAMP"-text-5-"cAMP"-NN-0,"CAMP"-text-4-"cAMP"-NNS-0,"CAMP"-text-14-"cAMP"-NNS-0,"CAMP"-text-47-"cAMP"-JJ-0,"CAMP"-text-0-"cAMP"-NNS-0,"CAMP"-text-18-"cAMP"-NNS-0,"CAMP"-text-53-"cAMP"-JJ-0|text|2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|
+00000000.tx|MMI|3.22|Cyclic adenosine monophosphate measurement|C0201979|[lbpr]|"CAMP"-text-5-"cAMP"-NN-0,"CAMP"-text-4-"cAMP"-NNS-0,"CAMP"-text-14-"cAMP"-NNS-0,"CAMP"-text-47-"cAMP"-JJ-0,"CAMP"-text-0-"cAMP"-NNS-0,"CAMP"-text-18-"cAMP"-NNS-0,"CAMP"-text-53-"cAMP"-JJ-0|text|2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|
+00000000.tx|MMI|3.22|Hepatic|C0205054|[blor]|"Hepatic"-text-0-"hepatic"-JJ-0,"Hepatic"-text-2-"hepatic"-JJ-0,"Hepatic"-text-12-"hepatic"-JJ-0,"Hepatic"-text-41-"hepatic"-JJ-0,"Hepatic"-text-0-"hepatic"-JJ-0,"Hepatic"-text-16-"hepatic"-JJ-0,"Hepatic"-text-49-"hepatic"-JJ-0|text|2424/7;2741/7;2854/7;2954/7;3043/7;3324/7;3447/7|
+00000000.tx|MMI|3.22|amsacrine/cyclophosphamide/etoposide|C0278621|[topp]|"CAMP"-text-5-"cAMP"-NN-0,"CAMP"-text-4-"cAMP"-NNS-0,"CAMP"-text-14-"cAMP"-NNS-0,"CAMP"-text-47-"cAMP"-JJ-0,"CAMP"-text-0-"cAMP"-NNS-0,"CAMP"-text-18-"cAMP"-NNS-0,"CAMP"-text-53-"cAMP"-JJ-0|text|2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|
+00000000.tx|MMI|3.22|cyclophosphamide/doxorubicin/methotrexate/procarbazine protocol|C0054557|[topp]|"CAMP"-text-5-"cAMP"-NN-0,"CAMP"-text-4-"cAMP"-NNS-0,"CAMP"-text-14-"cAMP"-NNS-0,"CAMP"-text-47-"cAMP"-JJ-0,"CAMP"-text-0-"cAMP"-NNS-0,"CAMP"-text-18-"cAMP"-NNS-0,"CAMP"-text-53-"cAMP"-JJ-0|text|2444/4;2749/4;2862/4;2980/4;3051/4;3332/4;3465/4|
+00000000.tx|MMI|3.22|prednisolone|C0032950|[orch, phsu]|"prednisolone"-text-21-"prednisolone"-NN-0|text|715/12|D04.210.500.745.432.769.795
+00000000.tx|MMI|2.76|NR4A2 gene|C1417836|[gngm]|"NOT"-text-4-"not"-RB-0,"NOT"-text-27-"not"-RB-0,"NOT"-text-30-"not"-RB-0,"NOT"-text-25-"not"-RB-0,"NOT"-text-1-"not"-RB-0,"NOT"-text-2-"not"-RB-0|text|69/3;1324/3;1498/3;1664/3;1756/3;2828/3|
+00000000.tx|MMI|2.76|Negation|C1518422|[ftcn]|"Not"-text-4-"not"-RB-0,"Not"-text-27-"not"-RB-0,"Not"-text-30-"not"-RB-0,"Not"-text-25-"not"-RB-0,"Not"-text-1-"not"-RB-0,"Not"-text-2-"not"-RB-0|text|69/3;1324/3;1498/3;1664/3;1756/3;2828/3|
+00000000.tx|MMI|2.76|Androgens|C0002844|[horm, phsu]|"Androgens"-text-0-"Androgens"-NNS-0|text|150/9|D27.505.696.399.472.161
+00000000.tx|MMI|2.76|ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM|C3537250|[horm, orch, phsu]|"ESTROGENS"-text-4-"estrogens"-NNS-0|text|367/9|D27.505.696.399.472.277
+00000000.tx|MMI|2.76|Estrogens|C0014939|[horm, orch, phsu]|"Estrogens"-text-4-"estrogens"-NNS-0|text|367/9|D27.505.696.399.472.277
+00000000.tx|MMI|2.76|Estrogens Drug Class|C3714615|[phsu]|"ESTROGENS"-text-4-"estrogens"-NNS-0|text|367/9|D27.505.696.399.472.277
+00000000.tx|MMI|2.76|Estrogens, endocrine therapy drugs|C3541386|[horm, orch, phsu]|"Estrogens"-text-4-"estrogens"-NNS-0|text|367/9|D27.505.696.399.472.277
+00000000.tx|MMI|2.30|Massive|C0522501|[qlco]|"markedly"-text-9-"markedly"-RB-0,"markedly"-text-2-"markedly"-RB-0,"markedly"-text-29-"markedly"-RB-0,"Marked"-text-0-"Marked"-NNP-0,"markedly"-text-6-"markedly"-RB-0|text|228/8;1250/8;1675/8;2755/6;3288/8|
+00000000.tx|MMI|2.30|anti-tumor necrosis factor therapy|C0281481|[topp]|"anti-tumor necrosis factor therapy"-text-24-"anti-tumor necrosis factor therapy"-NNS-0,"anti-TNF therapy"-text-0-"anti-TNF therapy"-NNS-0,"anti-TNF therapy"-text-37-"anti-TNF therapy"-NNS-0,"anti-TNF therapy"-text-26-"anti-TNF therapy"-NNS-0,"anti-TNF therapy"-text-37-"anti-TNF therapy"-NNS-0|text|103/34;641/16;1342/16;1477/16;1691/16|
+00000000.tx|MMI|2.30|prasterone|C0011185|[horm, orch, phsu]|"dheas"-text-0-"DHEAS"-NNP-0,"DHEA"-text-85-"DHEA"-NNP-0,"dheas"-text-88-"DHEAS"-NNP-0,"dheas"-text-0-"DHEAS"-NNP-0,"DHEA"-text-0-"DHEA"-NN-0|text|200/5;862/4;868/5;1217/5;1376/4|
+00000000.tx|MMI|2.30|Methods|C0025663|[inpr]|"Methods"-text-0-"METHODS"-NNS-0|text|611/7|E05.581;x.x.x
+00000000.tx|MMI|2.30|Methods aspects|C0025664|[ftcn]|"methods"-text-0-"METHODS"-NNS-0|text|611/7|E05.581;x.x.x
+00000000.tx|MMI|2.30|Molar tooth|C0026367|[bpoc]|"Molar"-text-0-"Molar"-JJ-0|text|1537/5|A14.549.167.860.525
+00000000.tx|MMI|2.30|Mole per Liter|C0347982|[qnco]|"Molar"-text-0-"Molar"-JJ-0|text|1537/5|A14.549.167.860.525
+00000000.tx|MMI|2.30|Techniques|C0449851|[ftcn]|"Methods"-text-0-"METHODS"-NNS-0|text|611/7|E05.581;x.x.x
+00000000.tx|MMI|1.84|Administration occupational activities|C0001554|[ocac]|"Administration"-text-19-"administration"-NN-0,"Administration"-text-0-"administration"-NN-0|text|2172/14;3002/14|N04.452
+00000000.tx|MMI|1.84|ENZYMES FOR TREATMENT OF WOUNDS AND ULCERS|C3540048|[enzy, aapp, phsu]|"ENZYMES"-text-7-"enzymes"-NNS-0,"ENZYMES"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Enzymes|C0014442|[enzy, aapp]|"Enzymes"-text-7-"enzymes"-NNS-0,"Enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Enzymes FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM|C3540772|[enzy, aapp, phsu]|"Enzymes"-text-7-"enzymes"-NNS-0,"Enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Enzymes for ALIMENTARY TRACT AND METABOLISM|C3542456|[enzy, aapp, phsu]|"Enzymes"-text-7-"enzymes"-NNS-0,"Enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Enzymes, antithrombotic|C3541394|[enzy, aapp, phsu]|"Enzymes"-text-7-"enzymes"-NNS-0,"Enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Enzymes, hematological|C3540017|[enzy, aapp, phsu]|"Enzymes"-text-7-"enzymes"-NNS-0,"Enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Enzymes, peripheral vasodilators|C3540790|[enzy, aapp, phsu]|"Enzymes"-text-7-"enzymes"-NNS-0,"Enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Woman|C0043210|[popg]|"Women"-text-17-"women"-NNS-0,"Women"-text-16-"women"-NNS-0|text|261/5;403/5|M01.975
+00000000.tx|MMI|1.84|enzymology|C0014445|[ftcn]|"enzymes"-text-7-"enzymes"-NNS-0,"enzymes"-text-21-"enzymes"-NNS-0|text|1607/7;1997/7|D08.811
+00000000.tx|MMI|1.84|Hypoglycemia|C0020615|[dsyn]|"Hypoglycemia"-text-0-"hypoglycemia"-NN-0|text|2811/12|C18.452.394.984
+00000000.tx|MMI|1.84|Hypoglycemia, CTCAE|C4553659|[fndg]|"Hypoglycemia"-text-0-"hypoglycemia"-NN-0|text|2811/12|C18.452.394.984
+00000000.tx|MMI|1.84|Production Processing ID|C1548180|[inpr]|"Production"-text-0-"production"-NN-0|text|459/10|I01.261;N03.219
+00000000.tx|MMI|1.84|production|C0033268|[ocac]|"production"-text-0-"production"-NN-0|text|459/10|I01.261;N03.219
+00000000.tx|MMI|1.38|Administration procedure|C1533734|[topp]|"Treatment"-text-0-"treatment"-NN-0,"Administration"-text-19-"administration"-NN-0,"Administration"-text-0-"administration"-NN-0|text|1048/9;2172/14;3002/14|E02
+00000000.tx|MMI|1.38|BaseLine dental cement|C0168634|[bodm]|"baseline"-text-8-"baseline"-NN-0,"baseline"-text-18-"baseline"-NN-0,"baseline"-text-30-"baseline"-NN-0|text|1268/8;1646/8;1842/8|
+00000000.tx|MMI|1.38|Baseline|C1442488|[qnco]|"Baseline"-text-8-"baseline"-NN-0,"Baseline"-text-18-"baseline"-NN-0,"Baseline"-text-30-"baseline"-NN-0|text|1268/8;1646/8;1842/8|
+00000000.tx|MMI|1.38|Gonadal Steroid Hormones|C0036884|[horm, phsu]|"sex hormone"-text-0-"Sex hormone"-NN-0,"Sex Hormones"-text-17-"sex hormones"-NN-0,"Sex Hormones"-text-7-"sex hormones"-NN-0|text|0/11;1799/12;1938/12|
+00000000.tx|MMI|1.38|baseline - TableCellVerticalAlign|C1552824|[idcn]|"BASELINE"-text-8-"baseline"-NN-0,"BASELINE"-text-18-"baseline"-NN-0,"BASELINE"-text-30-"baseline"-NN-0|text|1268/8;1646/8;1842/8|
+00000000.tx|MMI|1.38|week|C0439230|[tmco]|"Weeks"-text-12-"weeks"-NNS-0,"week"-text-35-"Week"-NNP-0,"Weeks"-text-45-"weeks"-NNS-0|text|94/5;754/4;2062/5|
+00000000.tx|MMI|1.38|CDISC SDTM Sex of Individual Terminology|C1879943|[inpr]|"SEX"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|1.38|Coitus|C0009253|[orgf]|"Sex"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|1.38|Gender|C0079399|[orga]|"sex"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|1.38|Gender:Type:Point in time:^Patient:Nominal|C0804628|[clna]|"Sex"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|1.38|Inflammation|C0021368|[patf]|"Inflammation"-text-18-"inflammation"-NN-0|text|1129/12|C23.550.470
+00000000.tx|MMI|1.38|PLXNA3 gene|C1418662|[gngm]|"SEX"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|1.38|Sex Behavior|C0036864|[bhvr]|"Sex"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|1.38|sex|C1522384|[orga]|"sex"-text-16-"sex"-NN-0|text|1004/3|G08.686.810
+00000000.tx|MMI|0.92|Action|C3266814|[acty]|"Action"-text-35-"action"-NN-0,"Action"-text-43-"action"-NN-0|text|2940/6;3433/6|
+00000000.tx|MMI|0.92|Activation action|C1879547|[acty]|"Activation"-text-25-"activation"-NN-0,"Activation"-text-4-"activation"-NN-0|text|2659/10;3060/10|
+00000000.tx|MMI|0.92|Body Site Modifier - Lower|C1548802|[blor]|"Lower"-text-11-"lower"-JJR-0,"Lower"-text-4-"lower"-JJR-0|text|237/5;1259/5|
+00000000.tx|MMI|0.92|Changed status|C0443172|[qnco]|"changes"-text-13-"changes"-NNS-0,"changes"-text-0-"changes"-NNS-0|text|505/7;2730/7|
+00000000.tx|MMI|0.92|Changing|C0392747|[ftcn]|"changes"-text-13-"changes"-NNS-0,"changes"-text-0-"changes"-NNS-0|text|505/7;2730/7|
+00000000.tx|MMI|0.92|Clinical action|C0441472|[ftcn]|"action"-text-35-"action"-NN-0,"action"-text-43-"action"-NN-0|text|2940/6;3433/6|
+00000000.tx|MMI|0.92|Device system|C3888058|[mnob]|"System"-text-49-"system"-NN-0,"System"-text-55-"system"-NN-0|text|2985/6;3470/6|
+00000000.tx|MMI|0.92|Effect|C1280500|[qlco]|"Effect"-text-5-"effect"-NN-0,"effects"-text-0-"effects"-NNS-0|text|2131/6;2192/7|
+00000000.tx|MMI|0.92|Electronic Data Capture Activation|C4552596|[ftcn]|"activation"-text-25-"activation"-NN-0,"activation"-text-4-"activation"-NN-0|text|2659/10;3060/10|
+00000000.tx|MMI|0.92|Event Seriousness - Significant|C1546944|[qlco]|"Significant"-text-0-"significant"-JJ-0,"Significant"-text-0-"significant"-JJ-0|text|2572/11;2718/11|
+00000000.tx|MMI|0.92|Free testosterone|C0443483|[horm, orch]|"Free testosterone"-text-93-"free testosterone"-JJ-0,"Free testosterone"-text-0-"free testosterone"-JJ-0|text|875/17;1227/17|
+00000000.tx|MMI|0.92|Glycogen Phosphorylase, Muscle Form|C0917783|[enzy, aapp]|"phosphorylase"-text-4-"phosphorylase"-NN-0,"phosphorylase"-text-8-"phosphorylase"-NN-0|text|2600/13;3074/13|
+00000000.tx|MMI|0.92|Increase|C0442805|[ftcn]|"increases"-text-6-"increases"-NNS-0,"increases"-text-0-"increases"-NNS-0|text|2838/9;3030/9|
+00000000.tx|MMI|0.92|Increased|C0205217|[qnco]|"Increases"-text-6-"increases"-NNS-0,"Increases"-text-0-"increases"-NNS-0|text|2838/9;3030/9|
+00000000.tx|MMI|0.92|Infusion procedures|C0574032|[topp]|"infusions"-text-26-"infusions"-NNS-0,"infusion"-text-0-"infusion"-NN-0|text|731/9;3222/8|
+00000000.tx|MMI|0.92|Long|C0205166|[qlco]|"Long"-text-11-"long"-JJ-0,"Long"-text-31-"long"-JJ-0|text|684/4;2025/4|
+00000000.tx|MMI|0.92|Long Variable|C1706317|[qlco]|"Long"-text-11-"long"-JJ-0,"Long"-text-31-"long"-JJ-0|text|684/4;2025/4|
+00000000.tx|MMI|0.92|Lower (action)|C2003888|[acty]|"Lower"-text-11-"lower"-JJR-0,"Lower"-text-4-"lower"-JJR-0|text|237/5;1259/5|
+00000000.tx|MMI|0.92|Lower - spatial qualifier|C0441994|[spco]|"lower"-text-11-"lower"-JJR-0,"lower"-text-4-"lower"-JJR-0|text|237/5;1259/5|
+00000000.tx|MMI|0.92|Minimum|C1524031|[qlco]|"MIN"-text-10-"min"-NN-0,"MIN"-text-14-"min"-NN-0|text|2619/3;3097/3|
+00000000.tx|MMI|0.92|Minute of time|C0439232|[tmco]|"min"-text-10-"min"-NN-0,"min"-text-14-"min"-NN-0|text|2619/3;3097/3|
+00000000.tx|MMI|0.92|More|C0205172|[qnco]|"More"-text-21-"more"-JJR-0,"More"-text-21-"more"-JJR-0|text|2646/4;3114/4|
+00000000.tx|MMI|0.92|Nitric Oxide Synthase|C0132555|[enzy, aapp]|"synthase"-text-29-"synthase"-NN-0,"synthase"-text-29-"synthase"-NN-0|text|2673/8;3143/8|
+00000000.tx|MMI|0.92|Phosphorylases|C0017916|[enzy, aapp]|"Phosphorylase"-text-4-"phosphorylase"-NN-0,"Phosphorylase"-text-8-"phosphorylase"-NN-0|text|2600/13;3074/13|
+00000000.tx|MMI|0.92|Significant|C0750502|[idcn]|"Significant"-text-0-"significant"-JJ-0,"Significant"-text-0-"significant"-JJ-0|text|2572/11;2718/11|
+00000000.tx|MMI|0.92|Statistical Significance|C0237881|[qnco]|"significant"-text-0-"significant"-JJ-0,"significant"-text-0-"significant"-JJ-0|text|2572/11;2718/11|
+00000000.tx|MMI|0.92|System|C0449913|[ftcn]|"System"-text-49-"system"-NN-0,"System"-text-55-"system"-NN-0|text|2985/6;3470/6|
+00000000.tx|MMI|0.92|System - kit|C1553451|[mnob]|"System"-text-49-"system"-NN-0,"System"-text-55-"system"-NN-0|text|2985/6;3470/6|
+00000000.tx|MMI|0.92|Usual|C3538928|[qlco]|"Typical"-text-12-"typical"-JJ-0,"Typical"-text-13-"typical"-JJ-0|text|1623/7;1791/7|
+00000000.tx|MMI|0.92|control act - action|C1552007|[idcn]|"action"-text-35-"action"-NN-0,"action"-text-43-"action"-NN-0|text|2940/6;3433/6|
+00000000.tx|MMI|0.92|gradual|C0439833|[qlco]|"gradual"-text-23-"gradual"-JJ-0,"gradual"-text-23-"gradual"-JJ-0|text|2651/7;3119/7|
+00000000.tx|MMI|0.92|inactivation|C0544461|[ftcn]|"inactivation"-text-0-"inactivation"-NN-0,"inactivation"-text-25-"inactivation"-NN-0|text|2584/12;3127/12|
+00000000.tx|MMI|0.92|minim|C1552937|[qnco]|"Min"-text-10-"min"-NN-0,"Min"-text-14-"min"-NN-0|text|2619/3;3097/3|
+00000000.tx|MMI|0.92|Markers, Clinical|C0008963|[qlco]|"clinical markers"-text-14-"clinical markers"-JJ-0|text|1109/16|D23.101
+00000000.tx|MMI|0.46|Active|C0205177|[qlco]|"Activity"-text-13-"activity"-NN-0|text|1963/8|
+00000000.tx|MMI|0.46|Activities|C0441655|[acty]|"Activity"-text-13-"activity"-NN-0|text|1963/8|
+00000000.tx|MMI|0.46|Adenylate|C0597765|[bacs, nnon]|"Adenylate"-text-51-"adenylate"-JJ-0|text|3455/9|
+00000000.tx|MMI|0.46|Administration of insulin|C0199782|[topp]|"insulin administration"-text-0-"insulin administration"-NN-0|text|2540/22|
+00000000.tx|MMI|0.46|Age|C0001779|[orga]|"Age"-text-12-"age"-NN-0|text|996/3|
+00000000.tx|MMI|0.46|Age:Time:Point in time:^Patient:Quantitative|C1114365|[clna]|"Age"-text-12-"age"-NN-0|text|996/3|
+00000000.tx|MMI|0.46|Antibodies|C0003241|[imft, aapp, phsu]|"Antibody"-text-27-"antibody"-NN-0|text|547/8|
+00000000.tx|MMI|0.46|Before|C0332152|[tmco]|"Prior"-text-19-"prior"-JJ-0|text|709/5|
+00000000.tx|MMI|0.46|Biomaterial Treatment|C1705169|[cnce]|"Treatment"-text-0-"treatment"-NN-0|text|1048/9|E02
+00000000.tx|MMI|0.46|CONTROL veterinary product|C0308718|[phsu]|"CONTROL"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|Clinical Research|C0008972|[resa]|"Study"-text-1-"study"-NN-0|text|658/5|
+00000000.tx|MMI|0.46|Clinical Trial Objective|C4552789|[inpr]|"objective"-text-0-"OBJECTIVE"-CD-0|text|139/9|
+00000000.tx|MMI|0.46|Clinical Trial Period|C2347804|[resa]|"Period"-text-35-"period"-NN-0|text|2038/6|
+00000000.tx|MMI|0.46|Conclusion|C1707478|[idcn]|"Conclusion"-text-0-"CONCLUSION"-NN-0|text|1709/10|
+00000000.tx|MMI|0.46|Contrast|C1979874|[qlco]|"Contrast"-text-0-"contrast"-NN-0|text|319/8|
+00000000.tx|MMI|0.46|Contrast Media|C0009924|[irda]|"Contrast"-text-0-"contrast"-NN-0|text|319/8|
+00000000.tx|MMI|0.46|Control - Relationship modifier|C1547100|[idcn]|"Control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|Control Groups|C0009932|[grup]|"Control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|Control function|C2587213|[ftcn]|"Control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|DICOM Study|C1880229|[resa]|"Study"-text-1-"study"-NN-0|text|658/5|
+00000000.tx|MMI|0.46|Decrease|C0547047|[qnco]|"Decrease"-text-8-"decrease"-NN-0|text|1097/8|
+00000000.tx|MMI|0.46|Different|C1705242|[qlco]|"Different"-text-38-"different"-JJ-0|text|1871/9|
+00000000.tx|MMI|0.46|Duration|C2926735|[orch, phsu]|"Duration"-text-12-"duration"-NN-0|text|3312/8|
+00000000.tx|MMI|0.46|Duration (temporal concept)|C0449238|[tmco]|"duration"-text-12-"duration"-NN-0|text|3312/8|
+00000000.tx|MMI|0.46|Duration brand of oxymetazoline|C0720099|[phsu]|"Duration"-text-12-"duration"-NN-0|text|3312/8|
+00000000.tx|MMI|0.46|Effect, Appearance|C2348382|[qlco]|"Effect"-text-5-"effect"-NN-0|text|2131/6|
+00000000.tx|MMI|0.46|Elevated|C3163633|[qlco]|"Elevated"-text-12-"elevated"-JJ-0|text|391/8|
+00000000.tx|MMI|0.46|Elevated insulin|C4014870|[fndg]|"Elevated insulin"-text-25-"elevated insulin"-JJ-0|text|2888/16|
+00000000.tx|MMI|0.46|Elevation|C0702240|[spco]|"elevations"-text-20-"elevations"-NNS-0|text|3337/10|
+00000000.tx|MMI|0.46|FDA Establishment Activity Terminology|C4049939|[inpr]|"ACTIVITY"-text-13-"activity"-NN-0|text|1963/8|
+00000000.tx|MMI|0.46|Gait normal|C0231683|[fndg]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Healthy|C3898900|[qlco]|"Healthy"-text-20-"healthy"-JJ-0|text|1016/7|
+00000000.tx|MMI|0.46|Hepatic glycogen synthase|C0443502|[enzy, aapp]|"Hepatic glycogen synthase"-text-13-"hepatic glycogen synthase"-JJ-0|text|2269/25|
+00000000.tx|MMI|0.46|High|C0205250|[qlco]|"elevated"-text-12-"elevated"-JJ-0|text|391/8|
+00000000.tx|MMI|0.46|How Often Felt Normal question|C4553972|[inpr]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Hyperglucagonemia|C0342218|[fndg]|"Hyperglucagonemia"-text-0-"hyperglucagonemia"-NN-0|text|2762/17|
+00000000.tx|MMI|0.46|Immunoglobulin complex location, circulating|C3665580|[celc]|"antibody"-text-27-"antibody"-NN-0|text|547/8|
+00000000.tx|MMI|0.46|Immunoglobulins|C0021027|[imft, aapp]|"Antibody"-text-27-"antibody"-NN-0|text|547/8|
+00000000.tx|MMI|0.46|Infusion route|C1827465|[ftcn]|"Infusion"-text-0-"infusion"-NN-0|text|3222/8|
+00000000.tx|MMI|0.46|Initially|C0205265|[tmco]|"Initially"-text-34-"initially"-RB-0|text|1509/9|
+00000000.tx|MMI|0.46|Insulin level result|C0428405|[lbtr]|"insulin levels"-text-27-"insulin levels"-NN-0|text|2897/14|
+00000000.tx|MMI|0.46|Intravenous|C0348016|[spco]|"Intravenous"-text-0-"intravenous"-JJ-0|text|2203/11|
+00000000.tx|MMI|0.46|Intravenous Route of Drug Administration|C1522726|[ftcn]|"Intravenous"-text-0-"intravenous"-JJ-0|text|2203/11|
+00000000.tx|MMI|0.46|LARGE1 gene|C1416798|[gngm]|"LARGE"-text-0-"large"-JJ-0|text|3024/5|
+00000000.tx|MMI|0.46|Large|C0549177|[qnco]|"Large"-text-0-"large"-JJ-0|text|3024/5|
+00000000.tx|MMI|0.46|Longitudinal|C0205127|[spco]|"Longitudinal"-text-0-"longitudinal"-JJ-0|text|628/12|
+00000000.tx|MMI|0.46|Marked|C1706089|[qlco]|"Marked"-text-0-"Marked"-NNP-0|text|2755/6|
+00000000.tx|MMI|0.46|Measurement|C0242485|[ftcn]|"measurements"-text-0-"measurements"-NNS-0|text|2408/12|
+00000000.tx|MMI|0.46|Normal|C0205307|[qlco]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Normal Observation Interpretation|C1550457|[fndg]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Normal Reference Range|C2698497|[inpr]|"NORMAL"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Normal assessment finding|C1873497|[fndg]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Normal, Unit of Concentration|C1704701|[qnco]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Objective observation|C1571702|[qlco]|"Objective"-text-0-"OBJECTIVE"-CD-0|text|139/9|
+00000000.tx|MMI|0.46|Objective:Finding:Point in time:^Patient:Narrative|C2979883|[clna]|"Objective"-text-0-"OBJECTIVE"-CD-0|text|139/9|
+00000000.tx|MMI|0.46|Outcome of Therapy|C1518681|[fndg]|"effect"-text-5-"effect"-NN-0|text|2131/6|
+00000000.tx|MMI|0.46|Period (temporal qualifier)|C1948053|[tmco]|"Period"-text-35-"period"-NN-0|text|2038/6|
+00000000.tx|MMI|0.46|Physical Activity Measurement|C4049938|[lbpr]|"Activity"-text-13-"activity"-NN-0|text|1963/8|
+00000000.tx|MMI|0.46|Physical activity|C0026606|[dora]|"activity"-text-13-"activity"-NN-0|text|1963/8|
+00000000.tx|MMI|0.46|Plasma glucose result|C0455280|[lbtr]|"plasma glucose"-text-14-"plasma glucose"-NN-0|text|2469/14|
+00000000.tx|MMI|0.46|Prior Medication Usage|C2826257|[evnt]|"PRIOR"-text-19-"prior"-JJ-0|text|709/5|
+00000000.tx|MMI|0.46|Ratio|C0456603|[qnco]|"ratios"-text-0-"ratios"-NNS-0|text|1543/6|
+00000000.tx|MMI|0.46|Reduced|C0392756|[qlco]|"Decrease"-text-8-"decrease"-NN-0|text|1097/8|
+00000000.tx|MMI|0.46|Scientific Control|C1882979|[cnce]|"Control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|Scientific Study|C0947630|[lbpr]|"Study"-text-1-"study"-NN-0|text|658/5|
+00000000.tx|MMI|0.46|Simultaneous|C0521115|[tmco]|"Concomitant"-text-0-"Concomitant"-NNP-0|text|3202/11|
+00000000.tx|MMI|0.46|Skin appearance normal (finding)|C0558145|[fndg]|"NORMAL"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|Standing position|C0231472|[spco]|"Standing"-text-13-"standing"-NN-0|text|689/8|
+00000000.tx|MMI|0.46|Study|C2603343|[resa]|"Study"-text-1-"study"-NN-0|text|658/5|
+00000000.tx|MMI|0.46|Study Control|C4553389|[cnce]|"control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|Study Object|C1705923|[cnce]|"Study"-text-1-"study"-NN-0|text|658/5|
+00000000.tx|MMI|0.46|Transaction counts and value totals - Period|C1561960|[qnco]|"period"-text-35-"period"-NN-0|text|2038/6|
+00000000.tx|MMI|0.46|Transaction counts and value totals - week|C1561540|[inpr]|"week"-text-35-"Week"-NNP-0|text|754/4|
+00000000.tx|MMI|0.46|Treating|C1522326|[ftcn]|"Treatment"-text-0-"treatment"-NN-0|text|1048/9|E02
+00000000.tx|MMI|0.46|Treatment Epoch|C3538994|[resa]|"TREATMENT"-text-0-"treatment"-NN-0|text|1048/9|E02
+00000000.tx|MMI|0.46|Treatment Study|C3161471|[resa]|"TREATMENT"-text-0-"treatment"-NN-0|text|1048/9|E02
+00000000.tx|MMI|0.46|True Control Status|C3274648|[qlco]|"Control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|Values|C0042295|[qlco]|"Values"-text-32-"values"-NNS-0|text|1851/6|
+00000000.tx|MMI|0.46|antibody activity|C1621287|[moft]|"antibody"-text-27-"antibody"-NN-0|text|547/8|
+00000000.tx|MMI|0.46|control aspects|C0243148|[qlco]|"control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|control substance|C1550141|[sbst]|"Control"-text-0-"Control"-NNP-0|text|2070/7|
+00000000.tx|MMI|0.46|glycogen metabolic process|C0599784|[moft]|"glycogen metabolism"-text-0-"glycogen metabolism"-NN-0|text|2089/19|
+00000000.tx|MMI|0.46|immunoglobulin complex location|C1167408|[celc]|"antibody"-text-27-"antibody"-NN-0|text|547/8|
+00000000.tx|MMI|0.46|normal Act Status|C1553386|[inpr]|"normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|normal Confidentiality|C1550469|[idcn]|"normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|normal Device Alert Level|C1551394|[fndg]|"Normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|normal Entity Status|C1553406|[qlco]|"normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|normal Managed Participation Status|C1553399|[idcn]|"normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|normal Role Status|C1553402|[idcn]|"normal"-text-8-"normal"-JJ-0|text|381/6|
+00000000.tx|MMI|0.46|objective (goal)|C0018017|[inpr]|"Objective"-text-0-"OBJECTIVE"-CD-0|text|139/9|
+00000000.tx|MMI|0.46|per period (qualifier value)|C0439531|[tmco]|"period"-text-35-"period"-NN-0|text|2038/6|
+00000000.tx|MMI|0.46|plasma insulin|C0857690|[lbpr]|"plasma insulin"-text-1-"plasma insulin"-NN-0|text|3257/14|
+00000000.tx|MMI|0.46|postmenopausal|C0232970|[fndg]|"postmenopausal"-text-15-"postmenopausal"-JJ-0|text|246/14|
+00000000.tx|MMI|0.46|shift displacement|C0333051|[ftcn]|"shifts"-text-1-"shifts"-NNS-0|text|1585/6|
+00000000.tx|MMI|0.46|treatment - ActInformationManagementReason|C3887704|[hlca]|"treatment"-text-0-"treatment"-NN-0|text|1048/9|E02
+

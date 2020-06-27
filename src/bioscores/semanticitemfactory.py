@@ -1,3 +1,0 @@
-# representation of SemanticItemFactory class.
-
-
